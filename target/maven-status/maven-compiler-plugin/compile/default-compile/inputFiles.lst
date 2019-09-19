@@ -1,0 +1,12 @@
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/web/UserRegistrationController.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/service/UserService.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/model/User.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/web/MainController.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/config/SecurityConfiguration.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/model/Role.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/service/UserServiceImpl.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/repository/UserRepository.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/web/dto/UserRegistrationDto.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/Application.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/constraint/FieldMatchValidator.java
+/Users/mac/Projects/spring-boot/security-thymeleaf/src/main/java/com/telixia/springboot/springsecurity/constraint/FieldMatch.java
